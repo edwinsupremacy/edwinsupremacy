@@ -58,7 +58,7 @@ I'm a full-stack developer based in Nairobi, Kenya, building end-to-end web and 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=edwinsupremacy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinsupremacy&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=edwinsupremacy&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
